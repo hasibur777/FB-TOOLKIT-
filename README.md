@@ -12,5 +12,4 @@ $ cd FBTOOL
 
 $ python2 fbtool.py
 
-ইমুজি রিমুভ করে নিয়েন l
-#collected
+ইমুজি রিমুভ করে নিয়েন
